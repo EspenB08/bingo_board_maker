@@ -161,7 +161,7 @@ const runescapeBosses = {
   },
   Wintertodt: {
     image:
-      "https://oldschool.runescape.wiki/images/thumb/8/8b/Wintertodt.png/280px-Wintertodt.png",
+      "https://oldschool.runescape.wiki/images/thumb/Phoenix_%28follower%29.png/274px-Phoenix_%28follower%29.png?f6800",
   },
   Zalcano: {
     image:
@@ -169,7 +169,47 @@ const runescapeBosses = {
   },
   Zulrah: {
     image:
-      "https://oldschool.runescape.wiki/images/thumb/f/ff/Zulrah.png/260px-Zulrah.png",
+      "https://oldschool.runescape.wiki/images/thumb/Zulrah_%28serpentine%29.png/217px-Zulrah_%28serpentine%29.png?29a54",
+  },
+  Scurrius: {
+    image:
+      "https://oldschool.runescape.wiki/images/thumb/Scurrius.png/232px-Scurrius.png?e66a5",
+  },
+  "Moon of Peril": {
+    image:
+      "https://oldschool.runescape.wiki/images/thumb/Lunar_Chest_%28closed%29.png/320px-Lunar_Chest_%28closed%29.png?19bbc",
+  },
+  Nex: {
+    image:
+      "https://oldschool.runescape.wiki/images/thumb/Nex.png/206px-Nex.png?2a1b3",
+  },
+  "Phantom Muspah": {
+    image:
+      "https://oldschool.runescape.wiki/images/thumb/Phantom_Muspah_%28ranged%29.png/238px-Phantom_Muspah_%28ranged%29.png?9cf6a",
+  },
+  "Duke Sucellus": {
+    image:
+      "https://oldschool.runescape.wiki/images/thumb/Duke_Sucellus.png/216px-Duke_Sucellus.png?d588a",
+  },
+  "The Leviathan": {
+    image:
+      "https://oldschool.runescape.wiki/images/thumb/The_Leviathan.png/198px-The_Leviathan.png?d588a",
+  },
+  "The Whisperer": {
+    image:
+      "https://oldschool.runescape.wiki/images/thumb/The_Whisperer.png/94px-The_Whisperer.png?aedab",
+  },
+  Vardorvis: {
+    image:
+      "https://oldschool.runescape.wiki/images/thumb/Vardorvis.png/132px-Vardorvis.png?48af8",
+  },
+  Bryophyta: {
+    image:
+      "https://oldschool.runescape.wiki/images/thumb/Bryophyta.png/152px-Bryophyta.png?08bc8",
+  },
+  "Sol Heredit": {
+    image:
+      "https://oldschool.runescape.wiki/images/thumb/Sol_Heredit.png/166px-Sol_Heredit.png?91250",
   },
 };
 
