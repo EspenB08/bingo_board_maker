@@ -1,6 +1,7 @@
 import React, {useState} from "react";
 import runescapeBosses from "../assets/BossList";
 
+
 function BossList() {
   const [selectedBoss, setSelectedBoss] = useState(null);
 
@@ -22,7 +23,12 @@ function BossList() {
       {selectedBoss && (
         <div>
           <h2>{selectedBoss}</h2>
-          <img src={runescapeBosses[selectedBoss].image} alt={selectedBoss} />
+          <img
+            src={runescapeBosses[selectedBoss].image}
+            width={200}
+            height={250}
+            alt={selectedBoss}
+          />
         </div>
       )}
     </div>
